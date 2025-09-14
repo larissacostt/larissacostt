@@ -1,7 +1,10 @@
-## Hi! I'm Larissa Costa 👋
-<div>🎓 Computer Science Student (3rd semester)</div>
-<div>💻 Passionate about technology and learning new technologies</div>
-<div>🚀 Always looking for opportunities to grow and share knowledge</div>
+## Olá! Eu sou a Larissa Costa 👋
+<div>🙋🏽‍♀️Tenho 21 anos<div>
+<div>🎓 Cursando 3º semestre de Ciências da Computação</div>
+<div>📚 Apaixonada por constante aprendizado</div>
+<div>🚀 Sempre em busca de oportunidades para crescer</div>
+<div>🤝 Gosto de compartilhar conhecimento</div>
+<div>🌍 Momentary pleasures will destroy great achievements</div>
 
 ---
 
@@ -33,7 +36,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Tecnologias
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -42,5 +45,14 @@
   />
 </p>
 
+### 📌 Atualmente estudando
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Git" width="50" height="50"/>
+          
+</p>
 
 
