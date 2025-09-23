@@ -45,7 +45,7 @@
   />
 </p>
 
-### 📌 Atualmente estudando
+### 📌 Currently studying:
 <p
   align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
