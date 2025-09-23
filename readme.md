@@ -1,4 +1,4 @@
-## Olá! Eu sou a Larissa Costa 👋
+## Hi! I'm Larissa Costa 👋
 <div>🙋🏽‍♀️Tenho 21 anos<div>
 <div>🎓 Cursando 3º semestre de Ciências da Computação</div>
 <div>📚 Apaixonada por constante aprendizado</div>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔍 Onde me encontrar
+## 🔍 Where to find me
 <p align="left">
   <a href="https://www.linkedin.com/in/larissaquadrosilva/">
     <img 
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Tecnologias
+### 📊 Technologies
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -46,13 +46,13 @@
 </p>
 
 ### 📌 Atualmente estudando
-
-<p align="left">
+<p
+  align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Git" width="50" height="50"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="50" height="50"/>
 </p>
 
 
