@@ -1,9 +1,9 @@
 ## Hi! I'm Larissa Costa 👋
-<div>🙋🏽‍♀️Tenho 21 anos<div>
-<div>🎓 Cursando 3º semestre de Ciências da Computação</div>
-<div>📚 Apaixonada por constante aprendizado</div>
-<div>🚀 Sempre em busca de oportunidades para crescer</div>
-<div>🤝 Gosto de compartilhar conhecimento</div>
+<div>🙋🏽‍♀️I'm 21 years old<div>
+<div>🎓Studying 3rd semester of Computer Science</div>
+<div>📚 Passionate about constant learning/div>
+<div>🚀 Always looking for opportunities to grow</div>
+<div>🤝I like to share knowledge</div>
 <div>🌍 Momentary pleasures will destroy great achievements</div>
 
 ---
@@ -50,7 +50,6 @@
   align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="50" height="50"/>
 </p>
