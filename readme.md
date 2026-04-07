@@ -37,15 +37,6 @@
 ---
 
 ### 📊 Technologies
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissacostt&layout=compact&custom_title=Tecnologias&langs_count=6&bg_color=000000&text_color=ffffff"
-  />
-</p>
-
-### 📌 Currently studying:
 <p
   align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
