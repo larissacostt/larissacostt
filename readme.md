@@ -1,6 +1,6 @@
 ## Hi! I'm Larissa Costa 👋
-<div>🙋🏽‍♀️I'm 21 years old<div>
-<div>🎓Studying 3rd semester of Computer Science</div>
+<div>🙋🏽‍♀️I'm 22 years old<div>
+<div>🎓Studying 4rd semester of Computer Science</div>
 <div>📚 Passionate about constant learning/div>
 <div>🚀 Always looking for opportunities to grow</div>
 <div>🤝I like to share knowledge</div>
